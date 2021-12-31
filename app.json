@@ -1,18 +1,18 @@
 {
-  "name": "Yukki Music Bot",
+  "name": "✨𝐑⭕𝐒𝐈 Music Bot✨",
   "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
-  "repository": "https://github.com/NotReallyShikhar/YukkiMusicBot",
+  "repository": "https://github.com/PravincyGp/YukkiMusicBot",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
   "keywords": [
   "python3",
   "telegram",
   "bot",
-  "Yukki",
-  "YukkiMusicBot",
+  "Rosi",
+  "RosiMusicBot",
   "telegram-bot",
   "pyrogram"
   ],
-  "repository": "https://github.com/notreallyshikhar/YukkiMusicBot",
+  "repository": "https://github.com/PravincyGp/YukkiMusicBot",
   "stack": "container",
   "env": {
     "API_ID": {
@@ -32,7 +32,7 @@
     },
     "DURATION_LIMIT": {
       "description": "Duration Limit for Playout (In Mins).. Example: 60",
-      "value": "60",
+      "value": "300",
       "required": true
     },
     "ASSISTANT_PREFIX": {
@@ -52,12 +52,12 @@
     },
     "SUPPORT_CHANNEL": {
       "description": "Support Channel Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "",
+      "value": "https://t.me/Rosi_Federation_Cat",
       "required": false
     },
     "SUPPORT_GROUP": {
       "description": "Support Group Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "",
+      "value": "https://t.me/Rosi_support",
       "required": false
     },
     "OWNER_ID": {
