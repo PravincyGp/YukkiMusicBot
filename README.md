@@ -124,7 +124,8 @@ shikhar@MacBook~ $ python3 gen_session.py
 <a href="https://t.me/OfficialYukkiSupport"><img src="https://img.shields.io/badge/Yukki%20Support-blueviolet?style=for-the-badge&logo=telegram" width="195""/></a>
 </p>
 
-
+## credits🐱
+ [@GP_CREATION_CAT](https://t.me/GP_CREATION_CAT)
 
 ## License
 
@@ -138,3 +139,5 @@ Special thanks to these amazing projects/people which/who help power Yukki Music
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 - [CallsMusic Team](https://github.com/Callsmusic)
 - [TheHamkerCat](https://github.com/TheHamkerCat)
+
+
